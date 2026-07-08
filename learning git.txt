@@ -23,3 +23,6 @@ git reset "id" : resets to the specific id and the other commits becomes unstage
 
 git stash : take the guests to backstage without commit and we can bring them back whenever we want
 git stash pop : from back area to the stage
+
+
+git remote add origin url_ : used to connect git and github
