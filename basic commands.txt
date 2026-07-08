@@ -38,7 +38,8 @@ cp a.txt : copy
 
 mv old.txt : move 
 
-cat file.txt : show file contents
+cat file.txt : show file content
+
 
 
 
