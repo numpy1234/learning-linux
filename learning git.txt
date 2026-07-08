@@ -1,12 +1,25 @@
 
 git init : initialises repo
 
-Untracked files : changes which arent saved
 
+git status : to check the status
+Untracked files : changes which arent saved
 
 git add file_name : add this file in the staging area
 git add . : everything in the current directory added to the staging area
 
 git status : to check the status
 
+git restore --staged file_name : to unstage without commiting
+
 git commit -m "file added" : to click the picture with this message
+
+
+git log : to see the history
+
+
+git reset "id" : resets to the specific id and the other commits becomes unstaged
+
+
+git stash : take the guests to backstage without commit and we can bring them back whenever we want
+git stash pop : from back area to the stage
