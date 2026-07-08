@@ -40,6 +40,8 @@ mv old.txt : move
 
 cat file.txt : show file content
 
+vi file.txt : edit or write the file
+
 
 
 
