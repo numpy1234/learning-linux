@@ -127,3 +127,8 @@ We change origin because your existing remote points to HTTPS, but we want to sw
 git push origin master
 
 git branch feature (added the feature branch)
+git checkout feature
+
+
+git clone 
+
