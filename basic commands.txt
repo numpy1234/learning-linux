@@ -1,0 +1,49 @@
+pwd : where am I 
+
+ls : list files
+
+cd folder_name 
+
+cd .. : go back one directory
+
+cd : go to home directory
+
+cd - : go to previous directory
+
+~ : home directory
+
+
+
+mkdir test : creates folder 
+
+mkdir -p project/src/test : creates nested folder
+
+
+
+
+
+rmdir folder : empty folder
+
+rm -r folder : deletes everything
+
+
+
+
+
+touch file.txt : create files
+
+rm a.text : remove files
+
+cp a.txt : copy 
+
+mv old.txt : move 
+
+cat file.txt : show file contents
+
+
+
+
+
+
+
+
